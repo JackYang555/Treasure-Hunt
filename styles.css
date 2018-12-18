@@ -1,0 +1,32 @@
+body {
+    text-align: center;    
+}
+
+.pirate-boat {
+    display: none;
+    width: 300px;
+    height: 300px;
+}
+
+.island {
+    display: none;
+    width: 300px;
+    height: 300px;
+}
+
+.Sparrow {
+    display: flex;
+}
+
+#first-map {
+    width: 400px;
+}
+
+.Treasure {
+    display: none;
+}
+
+.gold {
+    width:700px;
+    display: none;
+}
